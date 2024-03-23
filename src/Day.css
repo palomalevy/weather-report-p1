@@ -1,0 +1,23 @@
+.day {
+    padding: 10px;
+
+    border-bottom: 1px solid #eee;
+  }
+
+.weather {
+  font-size: 60px;
+
+}
+
+.temperature {
+  font-size: 30px;
+
+}
+
+.cold {
+  color: #00f;
+}
+
+.hot {
+  color: #f00;
+}
